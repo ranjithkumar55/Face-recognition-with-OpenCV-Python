@@ -1,0 +1,25 @@
+1.Ajith kumar   -it employee
+2.Aravind	-professor                                   
+3.Balakumar	-sportsman                                
+4.Elamparithi	-Army
+5.GUnal		-painter
+6.Kanna		-politician
+7.Kathiravan	-civil engineer
+8.Manikandan	-sportsman
+9.Muralitharan	-doctor
+10.Naveen	-doctor
+11.Praveen	-doctor
+12.Ranjith kumar-Farmer
+13.Ravisankar	-police or it employee
+14.sakthivel    -it employee
+15.sathiskumar  -fisherman
+16.Seshatri     -politician
+17.sriram       -civil engineer
+18.Srivigneswar -professor
+19.Veerakumar   -painter
+20.hariprasanth -sportsman
+21.unnikrishnan -farmer
+22.seenu	-painter
+23.surenther	-professor
+24.Babu		-fisherman
+25.selva kumar	-farmer
